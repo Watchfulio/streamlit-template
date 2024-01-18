@@ -1,0 +1,8 @@
+streamlit
+openai
+matplotlib
+numpy
+streamlit-extras
+streamlit-plotly-events
+watchdog
+plotly
